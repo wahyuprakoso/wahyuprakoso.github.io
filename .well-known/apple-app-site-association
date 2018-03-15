@@ -1,15 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "CodeLabs.K-I-A",
-                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
-            },
-            {
-                "appID": "CodeLabs.K-I-A",
-                "paths": [ "*" ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “4JX6654ES7.CodeLabs.K-I-A",
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
