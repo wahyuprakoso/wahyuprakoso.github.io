@@ -2,10 +2,13 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "4JX6654ES7.CodeLabs.K-I-A",
-			"paths": [
-				"*"
-			]
-		}]
+				"appID": "4JX6654ES7.CodeLabs.K-I-A",
+				"paths": ["*"]
+			},
+			{
+				"appID": "4W345K2J73.kia.tours",
+				"paths": ["*"]
+			}
+		]
 	}
 }
